@@ -1,0 +1,15 @@
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\bin\Debug\net8.0\scriptureMemorizerNew.exe
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\bin\Debug\net8.0\scriptureMemorizerNew.deps.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\bin\Debug\net8.0\scriptureMemorizerNew.runtimeconfig.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\bin\Debug\net8.0\scriptureMemorizerNew.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\bin\Debug\net8.0\scriptureMemorizerNew.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.AssemblyInfoInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.AssemblyInfo.cs
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.csproj.CoreCompileInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.sourcelink.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\refint\scriptureMemorizerNew.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\scriptureMemorizerNew.genruntimeconfig.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\ScriptureMemNew\scriptureMemorizerNew\obj\Debug\net8.0\ref\scriptureMemorizerNew.dll
